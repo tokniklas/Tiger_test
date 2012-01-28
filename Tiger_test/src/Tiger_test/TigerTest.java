@@ -7,7 +7,7 @@ public class TigerTest {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Tiger är bäst såklart.");
-
+		System.out.println("Testar vidare.");
 	}
 
 }
