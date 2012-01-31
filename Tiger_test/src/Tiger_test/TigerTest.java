@@ -11,6 +11,7 @@ public class TigerTest {
 		System.out.println("Mycket test nu.");
 		System.out.println("Commitar från laptop, inte.");
 		System.out.println("Mer text.");
+		System.out.println("MEGA.");
 	}
 
 }
