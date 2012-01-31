@@ -9,7 +9,8 @@ public class TigerTest {
 		System.out.println("Tiger är bäst såklart.");
 		System.out.println("Testar vidare.");
 		System.out.println("Mycket test nu.");
-		System.out.println("Commitar från laptop, inte tråkigt.");
+		System.out.println("Commitar från laptop, inte.");
+		System.out.println("Mer text.");
 	}
 
 }
